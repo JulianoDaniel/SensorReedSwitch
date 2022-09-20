@@ -1,4 +1,4 @@
-# Sensor PPA EndStopHouseGarage
+# Sensor PPA Fim de Curso - Basculante EndStop
 Exemplo de uso de sensor de Fim de Curso em portão com Arduino.
 
 

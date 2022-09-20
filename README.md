@@ -2,9 +2,9 @@
 Exemplo de uso de sensor de Fim de Curso em portão com Arduino.
 
 
-A conexão do sensor tipo PPA é bem simples. Ligamos o sensor usando o modelo de Pull-Down de forma semelhante ao botão tátil (Push Button). Quando seguramos um ímã próximo ao sensor, os terminais do mesmo se fecham e a chave deixa passar o sinal para o pino configurado como entrada no Arduino.
+A conexão do sensor tipo PPA é bem simples. O sensor é limontado usando o modelo de Pull-Down de forma semelhante ao botão táctil (Push Button). Quando seguramos um ímã próximo ao sensor, os terminais do mesmo se fecham e a chave deixa passar o sinal para o pino configurado como entrada no Arduino.
 
-O exemplo é acionar um led, mas podemos ativar qualquer dispositivo, acender uma luz, ativar um alarme.
+O exemplo é acionar um led, mas podemos ativar qualquer dispositivo, acender uma luz, ativar um alarme, etc.
 
 Componentes:
 

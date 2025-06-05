@@ -8,7 +8,7 @@ Quando seguramos um ímã próximo ao sensor, os terminais do mesmo se fecham e 
 O exemplo é acionar um led, mas podemos ativar qualquer dispositivo, acender uma luz, ativar um alarme, etc. Com o esquema montado na Protoboard, grave o Sketch ppa.ino para o Arduino.
 
 Teste o arquivo ppa2.ino se a intenção for deixar um led ligado apenas passando o ímã pelo sensor,<br> 
-dessa forma, alterando o estado "ligado/desligado" da chave.
+dessa forma, alterando o estado "ligado/desligado".
 
 # Requisitos
 

@@ -1,5 +1,5 @@
 # Sensor Magnético Reed Switch - (EndStop Magnético)
-Exemplo de uso de sensor fim de curso magnético Reed Switch em portão com Arduino.
+Exemplo de uso de sensor fim de curso magnético Reed Switch com Arduino.
 
 
 A conexão do sensor tipo Reed Switch é bem simples. O sensor é montado usando o modelo de Pull-Down de forma semelhante ao botão táctil (Push Button). Quando seguramos um ímã próximo ao sensor, os terminais do mesmo se fecham e a chave deixa passar o sinal para o pino configurado como entrada no Arduino.

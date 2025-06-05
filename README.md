@@ -6,7 +6,7 @@ A conexão do sensor tipo Reed Switch é bem simples. O sensor é montado usando
 
 O exemplo é acionar um led, mas podemos ativar qualquer dispositivo, acender uma luz, ativar um alarme, etc.
 
-Componentes:
+# Requisitos
 
 + Uma protoboard 
 + Um sensor do tipo Reed Switch 

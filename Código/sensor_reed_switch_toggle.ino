@@ -1,6 +1,7 @@
 /*  
-* Liga e desliga o led 
-* By JDev - https://github.com/JulianoDaniel
+*   Reed Switch
+*   Liga e desliga o led 
+*   By JDev - https://github.com/JulianoDaniel
 * 
 */
 

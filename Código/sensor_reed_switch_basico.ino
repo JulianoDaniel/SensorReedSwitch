@@ -1,6 +1,6 @@
 /*  
-*
-* By JDev - https://github.com/JulianoDaniel
+*  Reed Switch
+*  By JDev - https://github.com/JulianoDaniel
 * 
 */
 

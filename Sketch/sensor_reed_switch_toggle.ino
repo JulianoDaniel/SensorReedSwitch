@@ -1,9 +1,15 @@
-/*  
-*   Reed Switch
-*   Liga e desliga o led 
-*   By JDev - https://github.com/JulianoDaniel
-* 
-*/
+/*
+ *  Projeto: Sensor Magnético Reed Switch com Arduino
+ *  Arquivo: sensor_reed_switch_toggle.ino
+ *  Descrição: Alterna o estado do LED (liga/desliga) cada vez que o ímã passa pelo sensor Reed Switch.
+ *  
+ *  Autoria: Juliano Daniel
+ *  Repositório: https://github.com/JulianoDaniel/SensorReedSwitch
+ *  Data: 05/06/2025
+ *  Versão: 1.0
+ *  
+ *  Licença: MIT
+ */
 
 #define endR 10 
 #define led  13

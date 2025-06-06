@@ -36,7 +36,7 @@ Mas essa lógica pode ser usada para acionar qualquer dispositivo, como:
 + Um led 
 + Dois resistores de 1k 
 
-# Montamos o seguinte esquema na protoboard.
+# Esquema na protoboard.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/46107950/170777415-3b223caa-990a-4288-b40d-d99cc64c8402.png" />

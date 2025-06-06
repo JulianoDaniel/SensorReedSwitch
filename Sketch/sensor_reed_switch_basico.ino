@@ -5,7 +5,7 @@
  *  
  *  Autoria: Juliano Daniel
  *  Repositório: https://github.com/JulianoDaniel/SensorReedSwitch
- *  Data: 05/06/2025
+ *  Data: 27/05/2022
  *  Versão: 1.0
  *  
  *  Licença: MIT

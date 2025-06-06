@@ -1,8 +1,15 @@
-/*  
-*  Reed Switch
-*  By JDev - https://github.com/JulianoDaniel
-* 
-*/
+/*
+ *  Projeto: Sensor Magnético Reed Switch com Arduino
+ *  Arquivo: sensor_reed_switch_basico.ino
+ *  Descrição: Acende um LED enquanto o ímã estiver próximo ao sensor Reed Switch.
+ *  
+ *  Autoria: Juliano Daniel
+ *  Repositório: https://github.com/JulianoDaniel/SensorReedSwitch
+ *  Data: 05/06/2025
+ *  Versão: 1.0
+ *  
+ *  Licença: MIT
+ */
 
 #define endR 10 
 #define led  13

@@ -21,12 +21,12 @@ Mas essa lógica pode ser usada para acionar qualquer dispositivo, como:
 
 # Como utilizar?
 
-1. Monte o circuito na protoboard seguindo o esquema.png disponível no repositório.
+1. Monte o circuito na protoboard seguindo o esquema.png disponível na pasta "Circuito" no repositório.
 
-2. Envie o código ppa.ino para o Arduino.
+2. Envie o código "sensor_reed_switch_basico.ino" da pasta "Código" para o Arduino.
   ➝ Nesse modo, o LED fica aceso enquanto o ímã estiver próximo do sensor.
 
-3. Se quiser que o LED permaneça ligado após passar o ímã (funcionando como um botão liga/desliga), use o código ppa2.ino.
+3. Se quiser que o LED permaneça ligado após passar o ímã (funcionando como um botão liga/desliga), use o código "sensor_reed_switch_toggle.ino" na pasta "Código".
   ➝ Assim, a cada aproximação do ímã, o estado do LED alterna entre ligado e desligado.
 
 # Requisitos

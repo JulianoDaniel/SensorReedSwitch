@@ -1,4 +1,4 @@
-## Sensor Magnético Reed Switch - (EndStop Magnético)
+# Sensor Magnético Reed Switch - (EndStop Magnético)
 
 Exemplo de uso de sensor magnético Reed Switch com Arduino. 
 

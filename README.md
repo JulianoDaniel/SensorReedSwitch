@@ -37,15 +37,16 @@ Mas essa lógica pode ser usada para acionar qualquer dispositivo, como:
 + Dois resistores de 1k 
 
 ## Esquema na protoboard.
+Consulte a pasta Cicuito
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/46107950/170777415-3b223caa-990a-4288-b40d-d99cc64c8402.png" />
-</div>
-<br/> 
+## 🪪 Licença
 
-<br><hr>
-<div align="left">
-  <img src="https://licensebuttons.net/l/zero/1.0/80x15.png" />
-</div>
-<br/> 
+Este projeto está licenciado sob a licença  
+**[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
+
+Você pode copiar, modificar e redistribuir este trabalho, inclusive para fins **comerciais**, desde que forneça crédito apropriado ao autor.
+
+[![Licença: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+---
 
